@@ -1,0 +1,66 @@
+
+
+.titleBox{
+margin-top: 4%;
+margin-left: 10%;
+margin-right: 10%;
+
+}
+.logo{
+    color: black;
+    font-size: 30px;
+    padding-right: 150px;
+    
+    
+}
+.menu{
+color: grey;
+font-size: 20px;
+}
+.storyTitle{
+    color: black;
+    font-size: 32px;
+    margin-left: 30%;
+    margin-right: 30%;
+    align-content: center;
+    text-align: center;
+    padding-top: 40px;
+}
+.date{
+    color: gray;
+    font-size: 15px;
+    /* margin-left: 40%;
+    margin-right: 30%; */
+    align-content: center;
+    text-align: center
+}
+.follow{
+    color: gray;
+    font-size: 15px;
+    /* margin-left: 37%;
+    margin-right: 30%; */
+    align-content: center;
+    text-align: center;
+}
+.text{
+    color: black;
+    font-size: 15px;
+    margin-left: 16%;
+    margin-right: 16%;
+    align-content: center;
+}
+.menu2{
+    color: grey;
+    font-size: 20px;
+    margin-left: 16%;
+    margin-right: 16%;
+    align-content: center;
+}
+.foot{
+    color: gray;
+    font-size: 15px;
+    margin-left: 40%;
+    margin-right: 30%;
+    align-content: center;
+    padding-top: 50px;
+}

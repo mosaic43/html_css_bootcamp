@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box; 
+}
+.box {
+    margin: 5px;
+}
+.sidebar {
+height: 100%;
+position: fixed;
+width: 25%;
+color: lightgray;
+background-color: rgb(111, 108, 114);
+}
+.title {
+    color: white;
+    font-size: 20px;
+    padding-top: 18px;
+    padding-left: 14px;
+    
+}
+.menu {
+    font-size: 20px;
+   padding-left: 14px;
+    color: lightgray;
+  
+}
+.rightSide {
+    height: 100%;
+    float: right;
+    color: black;
+    width: 75%;
+}
+.introduction {
+    padding-top: 15px;
+    font-size: 15px;
+    float: right;
+    color: black;
+    width: 75%;
+    padding-left: 30px;
+}
+.rightBasic {
+    padding-top: 30px;
+    font-size: 20px;
+    float: right;
+    color: black;
+    padding-left: 30px;
+}
+.quote {
+    background-color:rgb(212, 212, 212);
+    color: gray;
+    padding-left: 30px;
+    padding-top: 0px;
+    border-left-color: darkgray;
+    border-left-width: 5px;
+    border-left-style: solid;
+}
+.words {
+    font-size: 18px;
+
+}
+.searchBox {
+    border-color: lightgray;
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 4px;
+}
+.foot{
+    color: lightgray;
+    font-size: 15px;
+    align-content: center;
+    padding-top: 50px;
+    padding-left: 14px;
+}
